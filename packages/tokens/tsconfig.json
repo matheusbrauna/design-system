@@ -1,0 +1,6 @@
+{
+  "extends": "@suntech/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

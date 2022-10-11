@@ -1,0 +1,6 @@
+{
+  "extends": "@suntech/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
