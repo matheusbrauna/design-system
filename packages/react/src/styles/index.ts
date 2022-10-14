@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@suntech/tokens'
+} from '@dev1tt/tokens'
 
 export const {
   styled,

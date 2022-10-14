@@ -1,3 +1,3 @@
 {
-  "extends": "@suntech/eslint-config"
+  "extends": "@dev1tt/eslint-config"
 }

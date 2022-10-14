@@ -1,5 +1,5 @@
 {
-  "extends": "@suntech/ts-config/base.json",
+  "extends": "@dev1tt/ts-config/base.json",
   "include": [
     "src"
   ]

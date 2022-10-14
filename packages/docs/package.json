@@ -1,5 +1,5 @@
 {
-  "name": "@suntech/docs",
+  "name": "@dev1tt/docs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -24,11 +24,11 @@
     "vite": "^3.1.7"
   },
   "dependencies": {
-    "@suntech/eslint-config": "*",
+    "@dev1tt/eslint-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
-    "@suntech/react": "*",
-    "@suntech/tokens": "*",
-    "@suntech/ts-config": "*",
+    "@dev1tt/react": "*",
+    "@dev1tt/tokens": "*",
+    "@dev1tt/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

@@ -1,6 +1,6 @@
 {
-  "name": "@suntech/react",
-  "version": "1.0.0",
+  "name": "@dev1tt/react",
+  "version": "2.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -11,9 +11,9 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@suntech/eslint-config": "*",
-    "@suntech/tokens": "*",
-    "@suntech/ts-config": "*",
+    "@dev1tt/eslint-config": "*",
+    "@dev1tt/tokens": "*",
+    "@dev1tt/ts-config": "*",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
