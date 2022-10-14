@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
+    "deploy-storybook": "storybook-to-ghpages",
     "build": "build-storybook"
   },
   "license": "MIT",
@@ -16,6 +17,7 @@
     "@storybook/addon-links": "^6.5.12",
     "@storybook/builder-vite": "^0.2.4",
     "@storybook/react": "^6.5.12",
+    "@storybook/storybook-deployer": "^2.8.12",
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^2.1.0",
     "babel-loader": "^8.2.5",
@@ -23,6 +25,7 @@
   },
   "dependencies": {
     "@suntech/eslint-config": "*",
+    "@storybook/addon-a11y": "^6.5.12",
     "@suntech/react": "*",
     "@suntech/tokens": "*",
     "@suntech/ts-config": "*",

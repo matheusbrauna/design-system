@@ -8,6 +8,14 @@ export default {
     src: 'https://github.com/matheusbrauna.png',
     alt: 'Matheus Braúna',
   },
+
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
